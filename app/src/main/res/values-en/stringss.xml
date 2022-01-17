@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Dogs Cats and Birds</string>
+    <string name="Judul">Dogs Cats and Birds</string>
+    <string name="pilih">(Choose Picture to Open Gallery)</string>
+    <string name="klik2">click profile to view author bio</string>
+    <string name="daftar">List of Dogs</string>
+    <string name="go_back">Back</string>
+    <string name="Anjing">Dogs</string>
+    <string name="Kucing">Cats</string>
+    <string name="Burung">Birds</string>
+    <string name="kucing_list_title">List of Cats</string>
+    <string name="anjing_list_title">List of Dogs</string>
+    <string name="burung_list_title">List of Birds</string>
+    <string name="biodata">Creator Profile</string>
+    <string name="nama">Name : Muhammad Diwa Angren</string>
+    <string name="kelas">Class : TI-D</string>
+    <string name="nim">NIM : 200602114</string>
+    <string name="prodi">Study Program : TI</string>
+    <string name="hobby">Hobby : Futsal</string>
+
+    //data anjing
+    <string name="pomeranian_nama">Pomeranian</string>
+    <string name="pomeranian_deskripsi">This dog is known to be spoiled and loyal even when you go to the toilet for a while, he could be waiting for you</string>
+    <string name="poodle_nama">Poodle </string>
+    <string name="poodle_deskripsi">Has a characteristic, namely curly fur. If the fur grows thick, then he will look elegant and very cute.</string>
+    <string name="shih_tzu_nama">Shih Tzu</string>
+    <string name="shih_tzu_deskripsi">Shih tzu dogs have fine hair that can grow long. So, you can tie it like a girl\'s hair. Because of its beautiful fur, this dog is often entered into dog beauty contests.</string>
+    <string name="chi_hua_hua_nama">Chi Hua Hua</string>
+    <string name="chi_hua_hua_deskripsi">This dog is known for its agility, smart, and also loyal.</string>
+    <string name="maltese_nama">Maltese </string>
+    <string name="maltese_deskripsi">Maltese dogs have very fine fur and round eyes. The advantage of keeping this dog is that the hair does not fall out easily.</string>
+
+
+
+    //data burung
+    <string name="murai_batu_nama">Stone Magpie Bird</string>
+    <string name="murai_batu_deskripsi">The first type of bird is the stone magpie. For lovers of chirping birds, the stone magpie is like a prima donna and top artist. Because its chirping is very melodious. In addition, it is able to imitate the sounds of other birds.</string>
+    <string name="kenari_nama">Canaries</string>
+    <string name="kenari_deskripsi">Behind its small body, walnuts have a distinctive chirping. In fact, the sound of a canary has its own term, namely cringe</string>
+    <string name="cucak_rowo_nama">Cucak Rowo</string>
+    <string name="cucak_rowo_deskripsi">This type of bird is no stranger to chirping bird fans. This is because he is known as a loud, clear and superior sound maker compared to other types of birds. The price is also quite expensive because the maintenance and captivity process is quite difficult.</string>
+    <string name="cendet_nama">Cendet</string>
+    <string name="cendet_deskripsi">This bird has many names, namely cender, pletet, pentet, to parrot toet. Besides being equipped with a loud and melodious voice, the appearance of the cendet bird is so charming and elegant</string>
+    <string name="panca_warna_nama">Colored Birds </string>
+    <string name="panca_warna_deskripsi">Like a bird that came down from heaven, the five colors are so attractive to the eye because of their beauty</string>
+
+
+    //data kucing
+    <string name="domestik_nama">Domestic Cat</string>
+    <string name="domestik_deskripsi">This cat very often roams the streets and it is also very easy for you to recognize its characteristics. In contrast to purebred cats that have distinctive characteristics and require special care, domestic cats do not have their own special characteristics and care.</string>
+    <string name="persia_nama">Persian cat</string>
+    <string name="persia_deskripsi">This cat has long thick hair, a round face, and a snub nose.</string>
+    <string name="anggora_nama">Anggora Cat</string>
+    <string name="anggora_deskripsi">This cat is in great demand because of its very distinctive physical characteristics, namely dense snow-white fur and fairly wide ears.</string>
+    <string name="siam_nama">Siamese Cat</string>
+    <string name="siam_deskripsi">The Siamese cat is an oriental cat that is very easy to find in Thailand.</string>
+    <string name="ragdoll_nama">Ragdoll cat</string>
+    <string name="ragdoll_deskripsi">Ragdolls are a popular breed of cat because they love humans so much. Because of his love, the cat often follows his owner around the house from morning to night.</string>
+
+
+</resources>

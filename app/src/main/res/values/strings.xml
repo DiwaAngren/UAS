@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Anjing Kucing dan Burung</string>
+    <string name="Judul">Anjing Kucing dan Burung</string>
+    <string name="pilih">(Pilih gambar untuk membuka galeri)</string>
+    <string name="klik2">klik profile untuk melihat biodata pembuat</string>
+    <string name="daftar">List Ras Anjing</string>
+    <string name="go_back">Kembali</string>
+    <string name="Anjing">Anjing</string>
+    <string name="Kucing">Kucing</string>
+    <string name="Burung">Burung</string>
+    <string name="kucing_list_title">Daftar Ras Kucing</string>
+    <string name="anjing_list_title">Daftar Ras Anjing</string>
+    <string name="burung_list_title">Daftar Ras Burung</string>
+    <string name="biodata">Biodata Pembuat</string>
+    <string name="nama">Nama : Muhammad Diwa Angren</string>
+    <string name="kelas">Kelas : TI-D</string>
+    <string name="prodi">Prodi : TI</string>
+    <string name="hobby">Hobi : Futsal</string>
+
+    //data anjing
+    <string name="pomeranian_nama">Anjing Pomeranian</string>
+    <string name="pomeranian_deskripsi">Anjing ini dikenal manja dan setia bahkan saat anda ketoilet sebentar,dia bisa saja menunggu anda</string>
+    <string name="poodle_nama">Anjing Poodle </string>
+    <string name="poodle_deskripsi">memiliki ciri khas, yaitu bulunya yang mengikal. Jika bulunya tumbuh lebat, maka ia pun akan terlihat elegan dan sangat lucu.</string>
+    <string name="shih_tzu_nama">Anjing Shih tzu</string>
+    <string name="shih_tzu_deskripsi">Anjing shih tzu memiliki bulu halus yang bisah tumbuh panjang. Jadinya, Anda dapat mengikatnya seperti rambut anak perempuan. Karena bulunya yang cantik, anjing ini sering masuk ke kontes kecantikan anjing.</string>
+    <string name="chi_hua_hua_nama">Anjing Chi Hua Hua</string>
+    <string name="chi_hua_hua_deskripsi">Anjing ini terkenal dengan kelincahannya, pintar, dan juga setia.</string>
+    <string name="maltese_nama">Anjing Maltese </string>
+    <string name="maltese_deskripsi">Anjing maltese memiliki bulu yang sangat halus dan mata bulat. Keuntungan dari memelihara anjing ini adalah bulunya tidak mudah rontok.</string>
+
+
+
+    //data burung
+    <string name="murai_batu_nama">Burung Murai Batu</string>
+    <string name="murai_batu_deskripsi">Jenis burung pertama adalah murai batu.Bagi pencinta burung kicau, murai batu bak primadona dan artis papan atas.Pasalnya, kicauannya sangat merdu.Selain itu, ia mampu menirukan suara burung lainnya.</string>
+    <string name="kenari_nama">Burung Kenari</string>
+    <string name="kenari_deskripsi">Di balik tubuhnya yang kecil, kenari mempunyai kicau yang khas. Bahkan, suara burung kenari mempunyai istilah sendiri, yaitu ngeriwik</string>
+    <string name="cucak_rowo_nama">Burung Cucak Rowo</string>
+    <string name="cucak_rowo_deskripsi">Jenis burung ini tak asing bagi penggemar burung kicau. Sebab, ia dikenal sebagai pembuat suara keras, jernih, dan ulung dibanding jenis burung lain.Harganya juga terbilang mahal karena proses perawatan dan penangkarannya cukup sulit.</string>
+    <string name="cendet_nama">Burung Cendet</string>
+    <string name="cendet_deskripsi">Burung yang satu ini memiliki banyak nama, Yaitu cender, plentet, pentet, hingga betet toet. Selain dilengkapi suara yang keras dan merdu, rupa burung cendet begitu menawan dan elegan</string>
+    <string name="panca_warna_nama">Burung Panca Warna </string>
+    <string name="panca_warna_deskripsi">Bak burung yang turun dari surga, panca warna begitu menarik mata karena keindahannya</string>
+
+
+    //data kucing
+    <string name="domestik_nama">Kucing Domestik</string>
+    <string name="domestik_deskripsi">Kucing ini sangat sering berkeliaran di jalanan dan juga sangat mudah kamu kenali karaktersitiknya. Berbeda dengan kucing ras yang punya karakteristik khas dan memerlukan perawatan khusus, kucing domestik tidak memiliki karakteristik dan perawatan khusus tersendiri.</string>
+    <string name="persia_nama">Kucing Persia</string>
+    <string name="persia_deskripsi">Kucing ini memiliki rambut panjang lebat, berwajah bulat, dan bentuk hidung yang pesek.</string>
+    <string name="anggora_nama">Kucing Anggora</string>
+    <string name="anggora_deskripsi">Kucing ini banyak peminatnya karena karakteristik fisik yang sangat khas, yakni bulu lebat seputih salju dan bentuk telinga yang cukup lebar.</string>
+    <string name="siam_nama">Kucing Siam</string>
+    <string name="siam_deskripsi">Kucing Siam adalah kucing dengan ras oriental yang sangat mudah ditemui di Thailand.</string>
+    <string name="ragdoll_nama">Kucing Ragdool</string>
+    <string name="ragdoll_deskripsi">Ragdoll adalah jenis kucing peliharaan populer karena sangat menyukai manusia. Saking sukanya, kucing tersebut sering mengikuti pemiliknya di sekitar rumah dari pagi hingga malam.</string>
+
+
+</resources>
